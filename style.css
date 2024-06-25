@@ -1,5 +1,5 @@
 
-@media screen and ( min-width:500px) {
+@media screen and ( min-width:100px) {
     .fff {
             width: 600px;
             height: 500px;
@@ -14637,7 +14637,7 @@ button {
     margin-left: -48px;
 }
 }
-@media screen and (max-width:700px)  {
+@media screen and (max-width:100px)  {
     .fff {
             width: 350px;
             height: 380px;
